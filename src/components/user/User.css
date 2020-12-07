@@ -1,0 +1,17 @@
+.odd {
+    background: #e2549e;
+    margin: 10px;
+    padding: 20px;
+}
+
+.even {
+    background: blueviolet;
+    margin: 10px;
+    padding: 20px;
+}
+
+.text {
+    text-align: center;
+    font-size: 18px;
+    font-family: cursive;
+}
